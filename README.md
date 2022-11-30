@@ -1,6 +1,6 @@
 # About Me:
 👋 My name is Sofie. I'm a junior frontend developer at Technigo Bootcamp<br> 
-⭐My skills include Javascript, HTML, CSS and React<br>💻 I'm currently learning Redux <br> 
+⭐My skills include Javascript, HTML, CSS and React<br>💻 I'm currently learning backend and starting our final project <br> 
 
 
 ## Socials:
