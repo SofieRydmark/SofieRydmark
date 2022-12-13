@@ -9,7 +9,7 @@
 
 # Hello world 👋
 🐶 My name is Sofie. I'm a frontend developer from Technigo Bootcamp<br> 
-⭐ My skills include Javascript, HTML, CSS, React, Redux and Mongo DB <br>
+⭐ My skills include Javascript, HTML, CSS, React, React Native, Redux and Mongo DB <br>
 💻 I'm currently working on our final fullstack project<br> 
 
 
