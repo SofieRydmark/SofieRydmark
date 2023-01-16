@@ -33,10 +33,10 @@
 </div>
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SofieRydmark&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SofieRydmark&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=SofieRydmark&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=SofieRydmark&theme=highcontrast&hide_border=true)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofieRydmark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SofieRydmark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=SofieRydmark&icon=9&color=12)](https://visitcount.itsvg.in)
 
