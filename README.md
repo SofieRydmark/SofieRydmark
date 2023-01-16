@@ -8,7 +8,7 @@
 </div>
 
 # Hello world 👋
-🐶 My name is Sofie. I'm a frontend developer from Technigo Bootcamp<br> 
+🐶 My name is Sofie. I'm a frontend developer from Technigo's web developer Bootcamp<br> 
 💥 My skills include Javascript, HTML, CSS, React, React Native, Redux, Node.js <br>
 🐶 Portfolio https://www.SofieRydmark.com<br> 
 💻 I just finished our final fullstack project app built in React Native - take a look below  <br> 
