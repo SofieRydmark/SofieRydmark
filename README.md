@@ -9,9 +9,10 @@
 
 # Hello world 👋
 🐶 My name is Sofie. I'm a frontend developer from Technigo Bootcamp<br> 
-⭐ My skills include Javascript, HTML, CSS, React, React Native, Redux, Node.js Mongo DB <br>
-💻 I just finished our final fullstack project app built in React Native - take a look ! <br> 
-  🧡 https://expo.dev/@sofierydmark/Planda?serviceType=classic&distribution=expo-go 
+💥 My skills include Javascript, HTML, CSS, React, React Native, Redux, Node.js Mongo DB <br>
+🐶 Portfolio https://www.SofieRydmark.com<br> 
+💻 I just finished our final fullstack project app built in React Native - take a look below  <br> 
+  🧡 https://expo.dev/@sofierydmark/Planda?serviceType=classic&distribution=expo-go 🧡
 
 
 # Tech Skills
@@ -28,6 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" **alt="GoogleCloud" width="40" 
   height="40"/>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
  
 
 </div>
