@@ -9,9 +9,9 @@
 
 # Hello world 👋
 🐶 My name is Sofie. I'm a frontend developer from Technigo's web developer Bootcamp<br> 
-💥 My skills include Javascript, HTML, CSS, React, React Native, Redux, Node.js <br>
+💥 My skills include Javascript, HTML, CSS, React, React Native, Redux, Node.js, HubL, Hubspot <br>
 🐶 Portfolio https://www.SofieRydmark.com<br> 
-💻 I just finished our final fullstack project app built in React Native - take a look below  <br> 
+💻 Final fullstack projekt below <br> 
   🧡 https://expo.dev/@sofierydmark/Planda?serviceType=classic&distribution=expo-go 🧡
 
 
